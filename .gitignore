@@ -1,0 +1,29 @@
+# Ignores
+node_modules/
+.next/
+coverage/
+build/
+dist/
+.cache/
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+*.DS_Store
+Thumbs.db
+
+# Project files
+.env*
+
+# IDE files
+.idea/
+*.iml
+
+# Specific to your project
+*.log
+*.d.ts
